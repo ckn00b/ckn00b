@@ -13,11 +13,11 @@
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=orange)
 
 ### ❓ About Me
-- 🐝 I’m currently working on getting hired!
-- 🌱 I’m currently learning how to use Blazor pages!
+- 🐝 I’m currently working on ASP.NET Core MVC applications.
+- 🌱 I’m currently learning how to build those apps.
 - 🤔 I’m looking for help with finding stronger coffee...
 - 📫 You can reach me on [Twitter](1) and [LinkedIn](2)
-- ⚡ Fun fact: I served 5 years as US Army Field Artillery before becoming a Software Developer!
+- ⚡ Fun fact: I served 5 years as US Army Field Artillery before becoming a Software Engineer!
 
 <!--
 **ckn00b/ckn00b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
