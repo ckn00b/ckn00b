@@ -13,9 +13,9 @@
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=orange)
 
 ### ❓ About Me
-- 🐝 I’m currently working on ASP.NET Core MVC applications.
-- 🌱 I’m currently learning how to build those apps.
-- 🤔 I’m looking for help with finding stronger coffee...
+- 🐝 Working on web apps using .NET Core.
+- 🌱 Learning about Web3 technologies.
+- 🤔 Looking for help with finding stronger coffee...
 - 📫 You can reach me on [Twitter](1) and [LinkedIn](2)
 - ⚡ Fun fact: I served 5 years as US Army Field Artillery before becoming a Software Engineer!
 
