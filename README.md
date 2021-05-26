@@ -1,16 +1,12 @@
 ### Hi there 👋
 
 ### 🛠️ Tools & Technologies
-![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=gold)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=white&color=gold)
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=gold)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=plastic&logo=c-sharp&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-Node-informational?style=plastic&logo=node.js&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=white&color=green)
-![](https://img.shields.io/badge/Tools-SQLite-informational?style=plastic&logo=sqlite&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-SQLite-informational?style=plastic&logo=sql&logoColor=white&color=orange)
 
 ### ❓ About Me
 - 🐝 Working on web apps using .NET Core.
