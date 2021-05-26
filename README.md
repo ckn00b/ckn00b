@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=plastic&logo=c-sharp&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=green)
-![](https://img.shields.io/badge/Tools-SQLite-informational?style=plastic&logo=sql&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=plastic&logo=sql&logoColor=white&color=orange)
 
 ### ❓ About Me
 - 🐝 Working on web apps using .NET Core.
